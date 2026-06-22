@@ -81,9 +81,9 @@ This project presents an interactive **Superstore Sales Dashboard** developed in
 ```
 📦 Superstore-Sales-Dashboard
 │
-├── Super_Store_Dashboard.png
 ├── PR.1.pbix
-└── README.md
+├── README.md
+└── Super_Store_Dashboard.png
 ```
 
 ---

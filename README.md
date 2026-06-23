@@ -71,7 +71,7 @@ This project presents an interactive **Superstore Sales Dashboard** developed in
 ### Main Dashboard
 
 <p align="center">
-<img src="Super_Store_Dashboard.png" width="850">
+<img src="SuperStore_Dashboard.png" width="1080">
 </p>
 
 ---
@@ -83,7 +83,7 @@ This project presents an interactive **Superstore Sales Dashboard** developed in
 │
 ├── PR.1.pbix
 ├── README.md
-└── Super_Store_Dashboard.png
+└── SuperStore_Dashboard.png
 ```
 
 ---
